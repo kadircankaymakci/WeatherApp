@@ -11,7 +11,7 @@ It's a simple React website that shows the weather.
 
 ## About
 
-It's a website that shows the 3-day weather forecast for the city whose name you enter.
+It's a website that shows the 3-day weather forecast for the city you enter via an API.
 
 ### Concepts
 Utilized concepts,
